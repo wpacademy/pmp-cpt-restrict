@@ -15,7 +15,7 @@ A WordPress plugin extension that seamlessly connects **Paid Memberships Pro** w
 ## 📋 Requirements
 
 - WordPress 5.0 or higher
-- [Paid Memberships Pro](https://wordpress.org/plugins/paid-memberships-pro/) plugin (free or pro version)
+- [Paid Memberships Pro]([[https://wordpress.org/plugins/paid-memberships-pro/](https://www.paidmembershipspro.com/pricing/)](https://www.paidmembershipspro.com/pricing/)) plugin (free or pro version)
 - At least one custom post type registered on your site
 
 ## 🔧 Installation
