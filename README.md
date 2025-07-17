@@ -207,7 +207,6 @@ This project is licensed under the GPL v2 or later - see the [LICENSE](LICENSE) 
 
 - **Issues**: [GitHub Issues](https://github.com/wpacademy/pmp-cpt-restrict/issues)
 - **Documentation**: Check this README and inline code comments
-- **Community**: [WordPress.org Support Forums](https://wordpress.org/support/)
 
 ---
 
