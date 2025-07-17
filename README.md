@@ -1,4 +1,4 @@
-# PMP Custom Post Type Restriction
+# Paid Membership Pro - Custom Post Type Restriction
 
 A WordPress plugin extension that seamlessly connects **Paid Memberships Pro** with custom post types to provide granular membership-based access control.
 
