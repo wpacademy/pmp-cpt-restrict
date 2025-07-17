@@ -3,7 +3,7 @@
  * Plugin Name: PMP Custom Post Type Access Restriction
  * Description: Connects Paid Memberships Pro with custom post types to restrict access
  * Version: 1.0.0
- * Author: Mian  Shahzad Raza
+ * Author: Mian Shahzad Raza
  * Author URI: https://www.wpacademy.pk
  * License: GPL2
  */
