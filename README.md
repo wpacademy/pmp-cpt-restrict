@@ -15,7 +15,7 @@ A WordPress plugin extension that seamlessly connects **Paid Memberships Pro** w
 ## 📋 Requirements
 
 - WordPress 5.0 or higher
-- [Paid Memberships Pro]([[https://wordpress.org/plugins/paid-memberships-pro/](https://www.paidmembershipspro.com/pricing/)](https://www.paidmembershipspro.com/pricing/)) plugin (free or pro version)
+- [Paid Memberships Pro](https://www.paidmembershipspro.com/membership-checkout/?level=20&ref=366) plugin (free or pro version)
 - At least one custom post type registered on your site
 
 ## 🔧 Installation
@@ -199,7 +199,7 @@ This project is licensed under the GPL v2 or later - see the [LICENSE](LICENSE) 
 
 ## 🙏 Acknowledgments
 
-- [Paid Memberships Pro](https://www.paidmembershipspro.com/) team for the excellent membership plugin
+- [Paid Memberships Pro](https://www.paidmembershipspro.com/membership-checkout/?level=20&ref=366) team for the excellent membership plugin
 - WordPress community for custom post type standards
 - All contributors and users who help improve this plugin
 
